@@ -14,4 +14,4 @@ $sothich = "lập trình web, bóng đá, nghe nhạc";
   <p>Sở thích: <?php echo $sothich; ?></p>
   <p>Trang được tạo lúc: <?php echo date("H:i:s d/m/Y"); ?></p>
 </body>
-</html>
+</html> 
